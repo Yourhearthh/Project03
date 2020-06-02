@@ -4,8 +4,8 @@
     <modules>
       <module fileurl="file://$PROJECT_DIR$/JavaWeb02/JavaWeb02.iml" filepath="$PROJECT_DIR$/JavaWeb02/JavaWeb02.iml" />
       <module fileurl="file://$PROJECT_DIR$/Project03.iml" filepath="$PROJECT_DIR$/Project03.iml" />
-      <module fileurl="file://F:/BaiduNetdiskDownload/springboot/尚硅谷SpringBoot核心技术篇/源码、资料、课件/代码/spring-boot-01-helloworld-quick/src/main/main.iml" filepath="F:/BaiduNetdiskDownload/springboot/尚硅谷SpringBoot核心技术篇/源码、资料、课件/代码/spring-boot-01-helloworld-quick/src/main/main.iml" />
       <module fileurl="file://$PROJECT_DIR$/springboot/springboot.iml" filepath="$PROJECT_DIR$/springboot/springboot.iml" />
+      <module fileurl="file://$PROJECT_DIR$/springboot-quick/springboot-quick.iml" filepath="$PROJECT_DIR$/springboot-quick/springboot-quick.iml" />
     </modules>
   </component>
 </project>
