@@ -8,15 +8,18 @@
         <outputRelativeToContentRoot value="true" />
         <module name="springboot" />
         <module name="springboot-jsp" />
+        <module name="springboot-mybatis" />
         <module name="springboot-quick" />
         <module name="ssm" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
       <module name="ccms" target="1.8" />
+      <module name="ecpbm" target="1.8" />
       <module name="springboot" target="1.8" />
       <module name="springboot-auto" target="1.8" />
       <module name="springboot-jsp" target="1.8" />
+      <module name="springboot-mybatis" target="1.8" />
       <module name="springboot-quick" target="1.8" />
       <module name="springbootlog" target="1.8" />
       <module name="ssm" target="1.8" />
